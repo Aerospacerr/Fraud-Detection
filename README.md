@@ -1,7 +1,7 @@
 # Fraud Detection System
 
 <p align="center">
-	<img src=" https://blog.payjunction.com/hubfs/BLOG/FEATURED%20IMAGES/mobile-fraud-prevention.svg " />
+	<img src=" https://raw.githubusercontent.com/Aerospacerr/Fraud-Detection/main/fraud_detection.JPG " />
 
 </p>
 
